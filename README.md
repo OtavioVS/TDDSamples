@@ -15,4 +15,3 @@ dotnet build
 dotnet test
 ```
 
-If you don't have .NET 9 installed, you can either install it from Microsoft or change the TargetFramework in the project files to `net8.0` and run the same commands.
