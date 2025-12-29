@@ -8,7 +8,7 @@ public abstract class Funcionario
     protected Funcionario(string nome, double salario)
     {
         this.Nome = nome;
-        this.Salario = salario;
+        this.Salario = salario;ad
     }
 
     public abstract double CalcularSalario();
