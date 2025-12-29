@@ -20,9 +20,7 @@ public class Desenvolvedor : Funcionario
 
     public override double CalcularSalario()
     {
-        if (Salario > 3000)
-            return Salario * 0.8;
-        return Salario * 0.9;
+        return new DezOuVintePorCento().Calcula(this);
     }
 }
 
@@ -32,9 +30,7 @@ public class DBA : Funcionario
 
     public override double CalcularSalario()
     {
-        if (Salario > 2000)
-            return Salario * 0.75;
-        return Salario * 0.85;
+        return new QuinzeOuVinteCincoPorCento().Calcula(this);
     }
 }
 
@@ -44,9 +40,7 @@ public class Testador : Funcionario
 
     public override double CalcularSalario()
     {
-        if (Salario > 2000)
-            return Salario * 0.75;
-        return Salario * 0.85;
+        return new QuinzeOuVinteCincoPorCento().Calcula(this);
     }
 }
 

@@ -1,7 +1,6 @@
 using DotNet9Sample;
 using NUnit.Framework;
 
-
 [TestFixture]
 public class CalculadoraDeSalarioTest
 {
@@ -31,5 +30,4 @@ public class CalculadoraDeSalarioTest
         double salario = calculadora.CalculaSalario(dba);
         Assert.That(salario, Is.EqualTo(500.0 * 0.85).Within(0.00001));
     }
-
 }

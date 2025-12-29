@@ -19,7 +19,7 @@ public class ConversorDeNumeroRomanoTest
         int numero = romano.Converte("V");
         Assert.That(numero, Is.EqualTo(5));
     }
-    
+
     [Test]
     public void DeveEntenderDoisSimbolosComoII()
     {
@@ -52,4 +52,3 @@ public class ConversorDeNumeroRomanoTest
         Assert.That(numero, Is.EqualTo(24));
     }
 }
-
