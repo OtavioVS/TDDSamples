@@ -9,7 +9,6 @@ public class CarrinhoDeComprasBuilder
         this.carrinho = new CarrinhoDeCompras();
     }
 
-
     public CarrinhoDeComprasBuilder ComItens(Item[] valores)
     {
         foreach (Item item in valores)
@@ -20,6 +19,7 @@ public class CarrinhoDeComprasBuilder
         }
         return this;
     }
+
     public CarrinhoDeCompras Cria()
     {
         return carrinho;
