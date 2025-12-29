@@ -179,3 +179,8 @@ F:\Repositories\TDD Examples\tests\DotNet9Sample.Tests\bin\Debug\net9.0\ru\Micro
 F:\Repositories\TDD Examples\tests\DotNet9Sample.Tests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.AdapterUtilities.resources.dll
 F:\Repositories\TDD Examples\tests\DotNet9Sample.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.AdapterUtilities.resources.dll
 F:\Repositories\TDD Examples\tests\DotNet9Sample.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+F:\Repositories\TDD Examples\tests\DotNet9Sample.Tests\bin\Debug\net9.0\Castle.Core.dll
+F:\Repositories\TDD Examples\tests\DotNet9Sample.Tests\bin\Debug\net9.0\Moq.dll
+F:\Repositories\TDD Examples\tests\DotNet9Sample.Tests\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+F:\Repositories\TDD Examples\tests\DotNet9Sample.Tests\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+F:\Repositories\TDD Examples\tests\DotNet9Sample.Tests\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
