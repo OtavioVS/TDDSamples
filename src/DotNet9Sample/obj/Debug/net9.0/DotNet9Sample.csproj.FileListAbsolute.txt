@@ -1,0 +1,14 @@
+F:\Repositories\TDD Examples\src\DotNet9Sample\bin\Debug\net9.0\DotNet9Sample.exe
+F:\Repositories\TDD Examples\src\DotNet9Sample\bin\Debug\net9.0\DotNet9Sample.deps.json
+F:\Repositories\TDD Examples\src\DotNet9Sample\bin\Debug\net9.0\DotNet9Sample.runtimeconfig.json
+F:\Repositories\TDD Examples\src\DotNet9Sample\bin\Debug\net9.0\DotNet9Sample.dll
+F:\Repositories\TDD Examples\src\DotNet9Sample\bin\Debug\net9.0\DotNet9Sample.pdb
+F:\Repositories\TDD Examples\src\DotNet9Sample\obj\Debug\net9.0\DotNet9Sample.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repositories\TDD Examples\src\DotNet9Sample\obj\Debug\net9.0\DotNet9Sample.AssemblyInfoInputs.cache
+F:\Repositories\TDD Examples\src\DotNet9Sample\obj\Debug\net9.0\DotNet9Sample.AssemblyInfo.cs
+F:\Repositories\TDD Examples\src\DotNet9Sample\obj\Debug\net9.0\DotNet9Sample.csproj.CoreCompileInputs.cache
+F:\Repositories\TDD Examples\src\DotNet9Sample\obj\Debug\net9.0\DotNet9Sample.dll
+F:\Repositories\TDD Examples\src\DotNet9Sample\obj\Debug\net9.0\refint\DotNet9Sample.dll
+F:\Repositories\TDD Examples\src\DotNet9Sample\obj\Debug\net9.0\DotNet9Sample.pdb
+F:\Repositories\TDD Examples\src\DotNet9Sample\obj\Debug\net9.0\DotNet9Sample.genruntimeconfig.cache
+F:\Repositories\TDD Examples\src\DotNet9Sample\obj\Debug\net9.0\ref\DotNet9Sample.dll
